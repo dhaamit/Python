@@ -1,2 +1,2 @@
 # Python
-- this repository cosist of python practice examples
+- this repository consist of python practice examples
